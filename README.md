@@ -14,8 +14,9 @@
 
 -------
 
- <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=FFF&center=true&vCenter=true&multiline=false&lines=`GETSUGA+TENSHOU+MD+WHATSAPP+BOT`" alt="">
+
+
+<p align="center"><img src="https://count.getloli.com/@shizothetechie?name=Shizo&theme=rule34&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=0"/></p>
 
 ------------
 
